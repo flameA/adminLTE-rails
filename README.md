@@ -1,7 +1,6 @@
 # AdminLTE::Rails
-
-TODO: Write a gem description
-
+Implemtent AdminLTE from source `https://github.com/flameA/AdminLTE`.
+for faster init project
 ## Installation
 
 Add this line to your application's Gemfile:
