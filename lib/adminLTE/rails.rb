@@ -2,6 +2,6 @@ require "adminLTE/rails/version"
 
 module AdminLTE
   module Rails
-    require 'adminLTE-rails/engine'
+    # require 'AdminLTE::Rails::Engine'
   end
 end
