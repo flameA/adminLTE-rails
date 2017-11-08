@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = AdminLTE::Rails::VERSION
   spec.authors       = ["ducan"]
   spec.email         = ["ducan2408@gmail.com"]
-  spec.summary       = %q{Integrates the AdminLTE theme with the Rails asset pipeline}}
-  spec.description   = %q{AdminLTE in Backend}
+  spec.summary       = %q{Integrates the AdminLTE theme with the Rails asset pipeline}
+  spec.description   = %q{AdminLTE}
   spec.homepage      = "https://github.com/flameA/adminLTE-rails"
   spec.license       = "MIT"
 
